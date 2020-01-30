@@ -11,7 +11,7 @@ As an individual contributor to an open-source project who is contributing code 
 
    A cross next to your contributor name means the CLA check failed.
 
-   ![CLA Check Failed](../../.gitbook/assets/cla-github-individual-contributor-fail.png)
+   ![CLA Check Failed](../.gitbook/assets/cla-github-individual-contributor-fail.png)
 
 3. Click **Please click here to be authorized**.
 
@@ -19,17 +19,17 @@ As an individual contributor to an open-source project who is contributing code 
 
 4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
-   ![Authorize CommunityBridge: EasyCLA](../../.gitbook/assets/cla-authorize-easycla.png)
+   ![Authorize CommunityBridge: EasyCLA](../.gitbook/assets/cla-authorize-easycla.png)
 
    The CLA Contributor Console appears and shows the CLA group for your project. The CLA types display:
 
-   ![Select CLA Type](../../.gitbook/assets/cla-github-select-company-or-individual.png)
+   ![Select CLA Type](../.gitbook/assets/cla-github-select-company-or-individual.png)
 
 5. Click **Individual** and then click **OPEN ICLA AGREEMENT**.
 
    DocuSign presents the agreement that you must sign. The ICLA is not tied to any employer you may have, so enter your @personal address in the E-Mail field.
 
-   ![DocuSign](../../.gitbook/assets/cla-docusign.png)
+   ![DocuSign](../.gitbook/assets/cla-docusign.png)
 
 6. Follow the instructions in the DocuSign document, sign it, and click **FINISH**.
 
@@ -37,7 +37,7 @@ As an individual contributor to an open-source project who is contributing code 
 
    A tick appears next to your branch.
 
-   ![GitHub Individual Contributor Pass](../../.gitbook/assets/cla-github-individual-contributor-pass.png)
+   ![GitHub Individual Contributor Pass](../.gitbook/assets/cla-github-individual-contributor-pass.png)
 
 7. Click **Merge pull request** and confirm the merge.
 

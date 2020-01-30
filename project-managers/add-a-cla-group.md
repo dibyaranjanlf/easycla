@@ -20,7 +20,7 @@ As a project manager, you use the CLA Management Console to add and name a CLA g
 3. Click **ADD CLA GROUP**.
 4. Complete the dialog options:
 
-   ![CLA CLA Group](../../.gitbook/assets/cla-cla-group.png)
+   ![CLA CLA Group](../.gitbook/assets/cla-cla-group.png)
 
    a. Enter a **CLA Group Name**.
 

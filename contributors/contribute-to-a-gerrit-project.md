@@ -16,19 +16,19 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
    A warning link that you need to sign a CLA appears:
 
-   ![Gerrit Warning Link](../../.gitbook/assets/cla-gerrit-sign-a-cla.png)
+   ![Gerrit Warning Link](../.gitbook/assets/cla-gerrit-sign-a-cla.png)
 
 3. Go to the URL in the message [https://,gerrit.linuxfoundation.org/infra/settings/\#Agreements](https://,gerrit.linuxfoundation.org/infra/settings/#Agreements) or navigate to **Settings** and click **Agreements**:
 
-   ![Gerrit Agreements](../../.gitbook/assets/cla-gerrit-agreements-option.png)
+   ![Gerrit Agreements](../.gitbook/assets/cla-gerrit-agreements-option.png)
 
 4. Click the **agreement link** that appears:
 
-   ![Gerrit Agreements](../../.gitbook/assets/cla-gerrit-agreements.png)
+   ![Gerrit Agreements](../.gitbook/assets/cla-gerrit-agreements.png)
 
    New Contributor Agreement types appear:
 
-   ![Gerrit New Contributor Agreement](../../.gitbook/assets/cla-gerrit-new-contributor-agreement.png)
+   ![Gerrit New Contributor Agreement](../.gitbook/assets/cla-gerrit-new-contributor-agreement.png)
 
 5. Continue to contribute as an individual or employee \(corporate contributor\):
    * [Individual Contributor](contribute-to-a-gerrit-project.md#individual-contributor)
@@ -40,16 +40,16 @@ EasyCLA presents a review agreement link to individual contributors to open a CL
 
 1. Select an individual CLA type.
 
-   ![New Contributor Agreement](../../.gitbook/assets/cla-gerrit-icla-type.png)
+   ![New Contributor Agreement](../.gitbook/assets/cla-gerrit-icla-type.png)
 
 2. Click the **Please review the agreement link** and then click the message link that appears:
 
-   ![Gerrit Sign ICLA Link](../../.gitbook/assets/cla-gerrit-icla-proceed-to-sign-cla.png)
+   ![Gerrit Sign ICLA Link](../.gitbook/assets/cla-gerrit-icla-proceed-to-sign-cla.png)
 
 3. Log in to EasyCLA if you are prompted.
 4. Click **OPEN CLA** on the dialog that appears:
 
-   ![Gerrit Open CLA](../../.gitbook/assets/cla-gerrit-individual-cla-open-cla.png)
+   ![Gerrit Open CLA](../.gitbook/assets/cla-gerrit-individual-cla-open-cla.png)
 
    DocuSign presents the agreement that you must sign. The Individual CLA is not tied to any employer you may have, so enter your @personal address in the E-Mail field.
 
@@ -65,12 +65,12 @@ EasyCLA presents a field where you confirm your association to the company.
 
    An agreement field appears:
 
-   ![Gerrit Corporate CLA Agreement](../../.gitbook/assets/cla-gerrit-ccla-i-agree.png)
+   ![Gerrit Corporate CLA Agreement](../.gitbook/assets/cla-gerrit-ccla-i-agree.png)
 
 2. Enter **I Agree** in the field and click **SUBMIT**.
 3. Read the Confirmation of Association statement and mark the agreement checkbox.
 
-   ![Gerrit Confirmation of Association](../../.gitbook/assets/cla-gerrit-confirmation-of-association.png)
+   ![Gerrit Confirmation of Association](../.gitbook/assets/cla-gerrit-confirmation-of-association.png)
 
 4. Click **CONTINUE**.
 

@@ -20,11 +20,11 @@ You can change your CLA type selections if needed.
 
 **Do these steps:**
 
-1. Click the **gear icon** ![CLA Gear Settings icon](../../.gitbook/assets/cla-gear-settings-icon.png) next to the CLA group name.
+1. Click the **gear icon** ![CLA Gear Settings icon](../.gitbook/assets/cla-gear-settings-icon.png) next to the CLA group name.
 
    The CLA Group dialog appears and shows your current CLA type selections.
 
-   ![CLA CLA Group](../../.gitbook/assets/cla-cla-group-edit.png)
+   ![CLA CLA Group](../.gitbook/assets/cla-cla-group-edit.png)
 
 2. Change the CLA Group Name, selections, or all, and click **SAVE**.
 
@@ -46,7 +46,7 @@ You can view the full set of signatures and whitelisted contributors who are int
    * **Version** identifies the version of the CLA.
    * **Date Signed** shows the date that the individual, employee, or CLA signatory signed the CLA.
 
-   ![CLA View Signatures](../../.gitbook/assets/cla-view-signatures.png)
+   ![CLA View Signatures](../.gitbook/assets/cla-view-signatures.png)
 
 2. \(Optional\) Click a column header to sort the column values in ascending or descending order. Use the pagination options to go to subsequent or previous pages.
 3. Click **CLOSE**.
@@ -61,7 +61,7 @@ The Corporate CLA list lets you see what companies in your project have a signed
 
    All companies that have signed the Corporate CLA are listed.
 
-   ![CLA Corporate CLA](../../.gitbook/assets/cla-corporate-cla.png)
+   ![CLA Corporate CLA](../.gitbook/assets/cla-corporate-cla.png)
 
 2. Click **CLOSE**.
 

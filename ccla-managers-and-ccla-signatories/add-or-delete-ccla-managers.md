@@ -18,7 +18,7 @@ You can add CCLA managers to your project or remove them.
 
    The CLA Corporate Console shows Signed CLAs.
 
-   ![Signed CLAs](../../.gitbook/assets/cla-signed-clas.png)
+   ![Signed CLAs](../.gitbook/assets/cla-signed-clas.png)
 
 3. Click a **CLA**.
 
@@ -34,11 +34,11 @@ You can add CCLA managers to your project or remove them.
 
    The Add CLA Manager dialog appears.
 
-   ![Add CLA Manager pane](../../.gitbook/assets/cla-managers-pane.png)
+   ![Add CLA Manager pane](../.gitbook/assets/cla-managers-pane.png)
 
 2. Enter the Linux Foundation identification of the CCLA manager who you want to add and click **SAVE**.
 
-   ![Add CLA Manager](../../.gitbook/assets/cla-add-cla-manager.png)
+   ![Add CLA Manager](../.gitbook/assets/cla-add-cla-manager.png)
 
 The CCLA manager is listed under CLA Managers.
 

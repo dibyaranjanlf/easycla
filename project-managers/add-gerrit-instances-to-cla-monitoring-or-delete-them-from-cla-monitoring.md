@@ -29,7 +29,7 @@ If you already added a Gerrit instance during the CLA onboarding process, skip t
 
    **CCLA Group ID** - An existing LDAP Group ID for Corporate CLAs
 
-   ![CLA Add Gerrit Instance](../../.gitbook/assets/cla-add-gerrit-instance.png)
+   ![CLA Add Gerrit Instance](../.gitbook/assets/cla-add-gerrit-instance.png)
 
    **Notes**
 
@@ -38,7 +38,7 @@ If you already added a Gerrit instance during the CLA onboarding process, skip t
 
    The CLA Management Console lists the instance under Gerrit Instances.
 
-   ![CLA Gerrit Instances](../../.gitbook/assets/cla-gerrit-instances.png)
+   ![CLA Gerrit Instances](../.gitbook/assets/cla-gerrit-instances.png)
 
    The CLA Management Console presents a CLA block of code:
 

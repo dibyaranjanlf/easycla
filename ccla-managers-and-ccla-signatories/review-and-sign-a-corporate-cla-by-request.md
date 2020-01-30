@@ -7,7 +7,7 @@ As a CCLA signatory, you may receive email requests to review and sign a Corpora
 1. Look in your email inbox for a CLA Sign Request email and open the email.
 2. Click **REVIEW DOCUMENT** in the email.
 
-   ![DocuSign](../../.gitbook/assets/cla-docusign-email-review-document.png)
+   ![DocuSign](../.gitbook/assets/cla-docusign-email-review-document.png)
 
    The Corporate CLA dialog opens.
 

@@ -24,13 +24,13 @@ _Verify that the pop-up blocker is disabled on your browser before you begin thi
 
    The Select a template page appears and lists available templates.
 
-   ![CLA Select a template](../../.gitbook/assets/cla-select-a-template-page.png)
+   ![CLA Select a template](../.gitbook/assets/cla-select-a-template-page.png)
 
 4. Click the **button** on the template you want to use.
 
    A template information form appears. The information you enter in this form will populate the corresponding fields in the resulting Corporate CLA and Individual CLA PDFs. The following form is an example; each form is specific to the project.
 
-   ![CLA Select a template form](../../.gitbook/assets/cla-select-a-template-form.png)
+   ![CLA Select a template form](../.gitbook/assets/cla-select-a-template-form.png)
 
 5. Complete the form fields and click **GENERATE AND REVIEW PDFS**.
 
@@ -38,7 +38,7 @@ _Verify that the pop-up blocker is disabled on your browser before you begin thi
 
 6. Click **VIEW CCLA** \(Corporate CLA\) or **VIEW ICLA** \(Individual CLA\) to view the respective PDF and scroll through the content to review it.
 
-   ![CLA PDF content](../../.gitbook/assets/cla-pdf-content.png)
+   ![CLA PDF content](../.gitbook/assets/cla-pdf-content.png)
 
 7. Click **DONE**. \(BACK TO TEMPLATE INFORMATION returns you to the template form.\)
 

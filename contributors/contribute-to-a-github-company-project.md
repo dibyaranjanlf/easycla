@@ -15,7 +15,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
    A cross next to your contributor name means the CLA check failed.
 
-   ![GitHub Company Contributor Fail](../../.gitbook/assets/cla-github-company-contributor-fail.png)
+   ![GitHub Company Contributor Fail](../.gitbook/assets/cla-github-company-contributor-fail.png)
 
 3. Click **Please click here to be authorized**.
 
@@ -23,11 +23,11 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
-   ![Authorize CommunityBridge: EasyCLA](../../.gitbook/assets/cla-authorize-easycla.png)
+   ![Authorize CommunityBridge: EasyCLA](../.gitbook/assets/cla-authorize-easycla.png)
 
    The CLA Contributor Console appears and shows the CLA group for your project. One or more CLA types that you must sign display: Company and Individual.
 
-   ![Select a CLA Type](../../.gitbook/assets/cla-github-select-company-or-individual.png)
+   ![Select a CLA Type](../.gitbook/assets/cla-github-select-company-or-individual.png)
 
 5. Select **Company**.
 
@@ -41,11 +41,11 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 1. Read the Confirmation of Association statement and mark the agreement checkbox. Click **CONTINUE**.
 
-   ![Confirmation of Association](../../.gitbook/assets/cla-github-confirmation-of-association%20%281%29.png)
+   ![Confirmation of Association](../.gitbook/assets/cla-github-confirmation-of-association%20%281%29.png)
 
    A dialog appears and informs you: You are done!
 
-   ![You are done](../../.gitbook/assets/cla-github-you-are-done%20%281%29.png)
+   ![You are done](../.gitbook/assets/cla-github-you-are-done%20%281%29.png)
 
 2. Click **RETURN TO REPO**.
 
@@ -53,7 +53,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
    A tick appears next to your branch. A notification appears:
 
-   ![All Checks Have Passed](../../.gitbook/assets/cla-github-all-checks-passed.png)
+   ![All Checks Have Passed](../.gitbook/assets/cla-github-all-checks-passed.png)
 
 3. Click **Merge pull request** and confirm the merge.
 
@@ -65,7 +65,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
    If your company is not associated with a company in the list, continue with the **next step**.
 
-   ![Select Company](../../.gitbook/assets/cla-contributor-select-company.png)
+   ![Select Company](../.gitbook/assets/cla-contributor-select-company.png)
 
 2. Click **COMPANY NOT IN LIST?**.
 
@@ -77,23 +77,23 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
    **NO**—A Request Access form appears. Complete the form and click **SEND**. The CCLA manager signs a Corporate CLA and adds you to the whitelist.
 
-   ![CLA Request Access](../../.gitbook/assets/cla-request-access.png)
+   ![CLA Request Access](../.gitbook/assets/cla-request-access.png)
 
    A Confirmation of Association with statement appears.
 
 4. Read the Confirmation of Association statement and mark the agreement checkbox. Click **CONTINUE**.
 
-   ![Confirmation of Association](../../.gitbook/assets/cla-github-confirmation-of-association.png)
+   ![Confirmation of Association](../.gitbook/assets/cla-github-confirmation-of-association.png)
 
    A dialog appears and informs you: You are done!
 
-   ![You Are Done](../../.gitbook/assets/cla-github-you-are-done.png)
+   ![You Are Done](../.gitbook/assets/cla-github-you-are-done.png)
 
 5. You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
 
    A tick appears next to your branch. A notification appears:
 
-   ![All Checks Have Passed](../../.gitbook/assets/cla-github-all-checks-passed%20%281%29.png)
+   ![All Checks Have Passed](../.gitbook/assets/cla-github-all-checks-passed%20%281%29.png)
 
 6. Click **Merge pull request** and confirm the merge.
 

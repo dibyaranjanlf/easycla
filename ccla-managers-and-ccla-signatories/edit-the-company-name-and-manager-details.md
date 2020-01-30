@@ -18,7 +18,7 @@ As a CCLA manager, you use the CLA Corporate Console to edit the company name an
 
    The Edit Company dialog appears.
 
-   ![Edit Company dialog](../../.gitbook/assets/cla-edit-company.png)
+   ![Edit Company dialog](../.gitbook/assets/cla-edit-company.png)
 
 4. Edit any of the details you want to change and then click **SAVE**:
 

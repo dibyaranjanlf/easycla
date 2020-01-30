@@ -17,11 +17,11 @@ _A problem occurs when you install the EasyCLA Application for your organization
 3. Click **Installed GitHub Apps** tab if it does not appear by default.
 4. Click **Configure** for the CommunityBridge: EasyCLA app.
 
-   ![CLA Uninstall the EasyCLA App](../../.gitbook/assets/cla-uninstall-the-easycla-app.png)
+   ![CLA Uninstall the EasyCLA App](../.gitbook/assets/cla-uninstall-the-easycla-app.png)
 
 5. Go to the Uninstall CommunityBridge: EasyCLA section and click **Uninstall**.
 
-   ![CLA Uninstall the EasyCLA app button](../../.gitbook/assets/cla-uninstall-the-easycla-app-button.png)
+   ![CLA Uninstall the EasyCLA app button](../.gitbook/assets/cla-uninstall-the-easycla-app-button.png)
 
 6. Refresh the CLA Management Console.
 

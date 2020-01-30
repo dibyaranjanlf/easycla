@@ -21,13 +21,13 @@ _Multiple CCLA managers cannot whitelist the same domain and sign a CCLA for the
 
    The CLA Corporate Console appears and shows Signed CLAs.
 
-   ![Signed CLAs](../../.gitbook/assets/cla-signed-clas.png)
+   ![Signed CLAs](../.gitbook/assets/cla-signed-clas.png)
 
 3. Click a **CLA**.
 
    The whitelists appear:
 
-   ![Whitelists](../../.gitbook/assets/cla-whitelists.png)
+   ![Whitelists](../.gitbook/assets/cla-whitelists.png)
 
 4. Decide which whitelist you want to edit:
    * [Domain Whitelist, Email Whitelist, or GitHub Whitelist](whitelist-contributors.md#domain-whitelist--email-whitelist--or-github-whitelist)
@@ -42,7 +42,7 @@ The corresponding Edit _domain/email/github_ Whitelist dialog lets you add, edit
 1. Click the **pencil** icon next to the whitelist that you want to edit:
 2. Click **ADD DOMAIN/EMAIL/GITHUB**, enter a **domain name**, **email address**, or **GitHub username** for the employees for whom you want to whitelist, respectively, and click **SAVE**. For example:
 
-![Edit email Whitelist](../../.gitbook/assets/cla-edit-email-whitelist.png)
+![Edit email Whitelist](../.gitbook/assets/cla-edit-email-whitelist.png)
 
 Your entries appear in their corresponding whitelists.
 
@@ -67,7 +67,7 @@ Each member of your organization must ensure that these items are Public in thei
 
    The Github Organization Whitelist dialog appears.
 
-   ![Github Organization Whitelist](../../.gitbook/assets/cla-github-organization-whitelist-no-organizations.png)
+   ![Github Organization Whitelist](../.gitbook/assets/cla-github-organization-whitelist-no-organizations.png)
 
    **Note:** Click **CONNECT GITHUB** if the organization you want to whitelist is not listed in the dialog. The Add GitHub Organization dialog appears and lets you specify the GitHub organization.
 

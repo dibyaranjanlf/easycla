@@ -12,7 +12,7 @@ CCLA managers can view a list of employee acknowledgements.
 
    The CLA Corporate Console shows Signed CLAs.
 
-   ![Signed CLAs](../../.gitbook/assets/cla-signed-clas.png)
+   ![Signed CLAs](../.gitbook/assets/cla-signed-clas.png)
 
 3. Click a **CLA**.
 

@@ -8,12 +8,11 @@ This is a new sentence.
 
 1. Go to [https://project.lfcla.com](https://project.lfcla.com).
 2. Click **SIGN IN**. The LF CLA sign-in dialog appears.
-
 3. Enter your credentials as the project manager and click **LOG IN**.
 
    The CLA Management Console appears and lists your assigned projects from the Linux Foundation, for example:
 
-   ![CLA Management All Projects](../../.gitbook/assets/cla-management-all-projects.png)
+   ![CLA Management All Projects](../.gitbook/assets/cla-management-all-projects.png)
 
 4. Click a **project name** of interest.
 

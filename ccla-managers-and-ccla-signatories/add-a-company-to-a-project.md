@@ -16,7 +16,7 @@ _If you are also the project manager, make sure that you are logged out of the C
 
 3. Complete the dialog fields and click **SAVE**, for example:
 
-   ![Add a Company](../../.gitbook/assets/cla-add-company.png)
+   ![Add a Company](../.gitbook/assets/cla-add-company.png)
 
    * Company Name
 
